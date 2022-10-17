@@ -42,7 +42,7 @@ header>.MuiToolbar-gutters,
 **************************/
 /* 全体の横幅 */
 .MuiPaper-root {
-  max-width: 1080px;
+  max-width: 960px;
 }
 
 /* タイトルの方 */
