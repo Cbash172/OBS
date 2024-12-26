@@ -31,18 +31,22 @@
     --status-border-shadow: var(--border-shadow, 0);
 }
 
-/* アバターを消す 
+/* アバターを消す */
 :root {
     --avatar-padding: 0;
     --avatar-display: none;
 }
-*/
 
 /* 分母を消す（0だけ消すのは不可能）
 :root {
     --status-denom-font-size: 0;
 }
 */
+
+/* 列数 */
+:root {
+    --status-column: 1;
+}
 
 /* OBS */
 body.transparent {
