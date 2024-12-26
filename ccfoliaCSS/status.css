@@ -17,7 +17,7 @@
 
     --status-column: 1;
     --status-height: 50px;
-    --status-width: 200px;
+    --status-width: 150px;
     --status-background: var(--background-color, rgb(245, 245, 245));
     --status-font-size: 2rem;
     --status-font-color: rgb(66, 66, 66);
