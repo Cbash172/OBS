@@ -10,14 +10,14 @@
     --avatar-margin: 0px;
 
     --badge-height: 40px;
-    --badge-width: 30px;
+    --badge-width: 25px;
     --badge-background: rgb(245, 245, 245);
     --badge-font-size: 1.5rem;
     --badge-font-color: rgb(66, 66, 66);
 
     --status-column: 1;
     --status-height: 50px;
-    --status-width: 96px;
+    --status-width: 84px;
     --status-background: var(--background-color, rgb(245, 245, 245));
     --status-font-size: 2rem;
     --status-font-color: rgb(66, 66, 66);
@@ -74,7 +74,7 @@ body.transparent {
 .MuiBadge-badge {
     height: var(--badge-height);
     width: var(--badge-width);
-    border-radius: 50%;
+    border-radius: 45%;
     font-size: var(--badge-font-size);
     color: var(--badge-font-color) !important;
     background: var(--badge-background) !important;
