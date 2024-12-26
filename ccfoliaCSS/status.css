@@ -10,14 +10,14 @@
     --avatar-margin: 0px;
 
     --badge-height: 40px;
-    --badge-width: 35px;
+    --badge-width: 30px;
     --badge-background: rgb(245, 245, 245);
     --badge-font-size: 1.5rem;
     --badge-font-color: rgb(66, 66, 66);
 
     --status-column: 1;
     --status-height: 50px;
-    --status-width: 100px;
+    --status-width: 96px;
     --status-background: var(--background-color, rgb(245, 245, 245));
     --status-font-size: 2rem;
     --status-font-color: rgb(66, 66, 66);
