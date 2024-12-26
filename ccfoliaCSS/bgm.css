@@ -65,3 +65,7 @@
 .MuiButton-root:hover {
   background-color: transparent;
 }
+
+.MuiButton-root:nth-of-type(4) {
+  display: none;
+}
